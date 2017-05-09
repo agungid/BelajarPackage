@@ -1,0 +1,16 @@
+{
+    "name": "odien/membuat-package",
+    "description": "Belajar membuat package",
+    "authors": [
+        {
+            "name": "M Agung Sutrisno",
+            "email": "m.agung.sutrisno@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BelajarPackage\\":"src/BelajarPackage"
+        }
+    }
+}
