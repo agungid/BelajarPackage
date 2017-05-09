@@ -1,12 +1,14 @@
 {
     "name": "odien/membuat-package",
     "description": "Belajar membuat package",
+    "type": "library",
     "authors": [
         {
             "name": "M Agung Sutrisno",
             "email": "m.agung.sutrisno@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
