@@ -2,6 +2,7 @@
     "name": "odien/membuat-package",
     "description": "Belajar membuat package",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "M Agung Sutrisno",
