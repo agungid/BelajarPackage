@@ -14,4 +14,8 @@ class Penjumlahan
     {
         echo "Penjumlahan";
     }
+
+    public function testing(){
+        echo "Testing package update";
+    }
 }
