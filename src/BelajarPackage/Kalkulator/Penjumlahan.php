@@ -18,4 +18,9 @@ class Penjumlahan
     public function testing(){
         echo "Testing package update";
     }
+
+    public function hasil($coba)
+    {
+        return $coba;
+    }
 }
